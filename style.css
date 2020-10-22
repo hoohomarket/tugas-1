@@ -1,0 +1,62 @@
+body{
+	background-color: #e5f2ef;
+	font-family: poppins;
+	color: #494a4a;
+	padding: 50px;
+}
+
+.center{
+	text-align: center;
+}
+
+.gambar{
+	display: block;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20%;
+	border: 7px solid white;
+}
+
+hr{
+	height: 5px;
+	background-color: white;
+	border: 0;
+}
+
+.table td, .table th{
+	border: 3px solid #494a4a;
+	padding:20px;
+	border-radius: 10px;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: green;
+}
+
+input, select{
+
+	background-color: transparent;
+	border: 1px solid #c3cdc8;
+	padding:10px;
+	border-radius: 50px;
+}
+
+select{
+	width: 100%;
+}
+
+.button{
+	background-color: #09c971;
+	font-size: 15px;
+	color: white;
+	width: 50%;
+	font-weight: bold;
+	display: block;
+	margin-right: auto;
+	cursor: pointer;
+	margin-left: auto;
+	border: 3px solid #494a4a;
+}
